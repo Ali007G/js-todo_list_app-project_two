@@ -1,0 +1,41 @@
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #f2f2f2;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgb(132, 175, 212);
+    border-radius: 25px;
+    box-shadow: 0 0 10px rgb(57, 63, 68);
+}
+
+h1 {
+    margin-top: 0;
+    text-align: center;
+    color: #293b4b;
+}
+
+input[type="text"] {
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #f2f2f2;
+    border-radius: 2px solid #ccc;
+    width: 80%;
+    margin-right: 10px;
+}
+
+button {
+    padding: 8px 20px;
+    background-color: #555;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+butoon:hover {
+    background-color: #333;
+}
